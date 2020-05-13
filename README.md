@@ -23,4 +23,4 @@ As the starting point, the project will adopt a model initially developed under 
 The *pilot* project is a short-term project, starting now in May 2020 and is expected to conclude at the end of Summer 2020, delivering the generic kick-start model, open models for the participating countries, and the set of unified scenarios. The project will include up to 7 countries/regions.  
 
 ### <span style="color:red">**Call for collaboration**</span>  
-The project can provide support in developing the model for up to two 2 additional teams. Researchers/modelers who are interested in developing/applying the model for a particular country or region, please contact: opendecarbonization@gmail.com, olugovoy@edf.org. 
+The project can provide support in developing the model for up to 2 additional teams. Researchers/modelers who are interested in developing/applying the model for a particular country or region, please contact: opendecarbonization@gmail.com, olugovoy@edf.org. 
